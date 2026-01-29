@@ -1,14 +1,13 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+Algoritmo "Super contador "
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Gustavo Guanabara 
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    :   Ana Clara 
 // Data atual  : 17/10/2025
 Var
-   // Seção de Declarações das variáveis
+  
    opcao1, opcao2, C : inteiro
    opcao3 : caractere
-   // Se??o de Comandos, procedimento, fun??es, operadores, etc...
 Inicio
    Escreval("------------------------")
    Escreval("     MENU      ")
@@ -23,6 +22,7 @@ Inicio
    Escreval(C)
     C<-C+1
     Ate(C >10)
+
 
 
 Fimalgoritmo
